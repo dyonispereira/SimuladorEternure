@@ -47,7 +47,7 @@ h1, h2 {
   justify-content: space-between;
 }
 .brand { display: flex; align-items: center; gap: 14px; }
-.brand__mark { width: 44px; height: 44px; }
+.brand__mark { width: 44px; height: 44px; object-fit: contain; }
 .brand__text { display: flex; flex-direction: column; line-height: 1.2; }
 .brand__name {
   font-family: Georgia, "Times New Roman", serif;
