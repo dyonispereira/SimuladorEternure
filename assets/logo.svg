@@ -1,17 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
-  <g stroke="#8b7d5a" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" fill="none">
-    <!-- top peak stems -->
-    <path d="M200,58 C185,72 172,82 162,94"/>
-    <path d="M200,58 C215,72 228,82 238,94"/>
+  <g stroke="#8b7d5a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
     <!-- upper-left ring -->
-    <ellipse cx="152" cy="150" rx="68" ry="57" transform="rotate(-22 152 150)"/>
+    <ellipse cx="152" cy="152" rx="68" ry="58" transform="rotate(-24 152 152)"/>
     <!-- upper-right ring -->
-    <ellipse cx="248" cy="150" rx="68" ry="57" transform="rotate(22 248 150)"/>
+    <ellipse cx="248" cy="152" rx="68" ry="58" transform="rotate(24 248 152)"/>
     <!-- connecting arc left (under crossing) -->
-    <path d="M112,192 C130,218 158,228 188,214"/>
+    <path d="M112,194 C130,220 158,230 188,216"/>
     <!-- connecting arc right (mirror) -->
-    <path d="M288,192 C270,218 242,228 212,214"/>
+    <path d="M288,194 C270,220 242,230 212,216"/>
     <!-- bottom ring -->
-    <ellipse cx="200" cy="278" rx="49" ry="80"/>
+    <ellipse cx="200" cy="280" rx="49" ry="80"/>
   </g>
 </svg>
